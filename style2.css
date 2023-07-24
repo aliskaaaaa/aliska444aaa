@@ -1,0 +1,69 @@
+body{
+	background-image:url(img/gerb.jpg);
+	background-attachment: fixed;
+}
+input[type='button']{
+	height:30px;
+	min-width:60px;
+	background-color:#b8b8b8;
+}
+.menu{
+	height:40px;
+	width:150px;
+}
+td {
+  text-align: left;
+  vertical-align: top;
+text-indent: 10px;}
+h1{
+	font-family:segoe script;
+}
+
+.podpis{
+	background-color:white;
+}
+.head_content {
+	vertical-align: middle;
+	color: white;
+}
+
+.header{
+	font-family:segoe script;
+	font-size:20px;
+	position: relative;
+	float: up;
+	background-color:#707070;
+	color: white;
+	text-align: center;
+vertical-align: middle;
+line-height: 90px;
+	}
+.boder{
+	position: relative;
+	background-color:rgba(135, 135, 135,0.85);
+	color: white;
+	padding:7px;
+	font-size:18px;
+}
+.footer{
+	position: relative;
+	float: down;
+	background-color:rgba(95, 95, 95,0.85);
+	color:white;
+}
+.dopper{
+	position: relative;
+	float: left;
+	height: 60px;
+	background-color:#696969;
+}
+.task_done{
+	background-color:#6f9c6d;
+	border: 2px solid #363636;
+	border-radius: 10px;
+}
+.task_undone{
+	background-color:#9c6d6d;
+	border: 2px solid #363636;
+	border-radius: 10px;
+}
